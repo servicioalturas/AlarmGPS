@@ -1,0 +1,7 @@
+{
+  "name": "ViajeroAlert",
+  "description": "Alarma de ubicación inteligente para viajeros. Despierta cuando estés cerca de tu destino.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
